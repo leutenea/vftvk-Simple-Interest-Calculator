@@ -1,12 +1,12 @@
 //  comment like this in js
 
-function updateRate() //function that updates the rate for the slider
+function updateRate() 
 {
     var rateval = document.getElementById("rate").value;
     document.getElementById("rate_val").innerText=rateval+"%";
 }
 
-function compute() //function that computes the interest
+function compute() 
 {
     var principal = document.getElementById("principal").value;
     if (principal<=0) { 
