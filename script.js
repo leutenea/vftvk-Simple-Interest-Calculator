@@ -1,4 +1,3 @@
-//  comment like this in js
 
 function updateRate() 
 {
