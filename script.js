@@ -10,7 +10,7 @@ function compute() //function that computes the interest
     var principal = document.getElementById("principal").value;
    
     if (principal<=0) { 
-        alert("Seriously Braden??!!\nPlease enter a positive number and don't even think about entering e.");     
+        alert("Seriously Braden WHY??!!\nPlease enter a positive number and don't even think about entering e.");     
         document.getElementById("principal").focus();
     }
     else{
