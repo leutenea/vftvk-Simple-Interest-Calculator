@@ -13,7 +13,7 @@ function compute() //function that computes the interest
         document.getElementById("principal").focus();
     }
     else if (principal<=0) { 
-        alert("Seriously??!!\nPlease enter a positive number.");     
+        alert("Seriously??!!\nPlease enter a positive number and don't even think about entering e.");     
         document.getElementById("principal").focus();
     }
     else{
