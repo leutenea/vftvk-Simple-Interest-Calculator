@@ -12,6 +12,10 @@ function compute() //function that computes the interest
         alert("Seriously??!!\nPlease enter a positive number.");     
         document.getElementById("principal").focus();
     }
+    else if(principal=e){
+        alert("e, really?!!\Let's try that again but this time with a positive NUMBER Braden.");
+        document.getElementById("principal").focus();
+    }
     else{
     var rate = document.getElementById("rate").value;
     var years = document.getElementById("years").value;
