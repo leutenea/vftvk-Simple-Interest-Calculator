@@ -8,12 +8,12 @@ function updateRate() //function that updates the rate for the slider
 function compute() //function that computes the interest
 {
     var principal = document.getElementById("principal").value;
-    if (principal<=0) { 
-        alert("Seriously??!!\nPlease enter a positive number.");     
+    if (principal=e){
+        alert("What??!!\nBraden!!!");     
         document.getElementById("principal").focus();
     }
-    else if (principal=e){
-        alert("Braden!!!\nCome on!");
+    else if (principal<=0) { 
+        alert("Seriously??!!\nPlease enter a positive number.");     
         document.getElementById("principal").focus();
     }
     else{
