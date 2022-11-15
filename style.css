@@ -1,13 +1,13 @@
-                                 /*  comment like this in css  */
+                                                              /*comment like this in css  */
 
-body {background-color:black;font-family:arial;color:white}   /*set the styles for the page*/
-h1{color:grey;font-family:verdana}                            /*sets the font color and font type for the header*/
+body {background-color:green;font-family:arial;color:white}   /*set the styles for the page */
+h1{color:grey;font-family:verdana}                            /*sets the font color and font type for the header */
 
-.maindiv {                                                    /*sets the styles for the box around the input elements*/
+.maindiv {                                                    /*sets the styles for the box around the input elements */
     background-color:white;                                   /*sets the background color */
     color:black;                                              /*sets the text color */
     width: 480px;                                             /*sets the width of the box */
-    padding: 40px;                                            /*sets the spacing within the box */
+    padding: 20px;                                            /*sets the spacing within the box */
     border-radius: 25px;                                      /*sets the corner rounds of the box */
     margin:auto;                                              /*sets the box to stay centered when resizing the window */
 }
