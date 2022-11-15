@@ -10,4 +10,5 @@ h1{color:grey;font-family:verdana}                            /*sets the font co
     padding: 20px;                                            /*sets the spacing within the box */
     border-radius: 25px;                                      /*sets the corner rounds of the box */
     margin:auto;                                              /*sets the box to stay centered when resizing the window */
+                                                              /* how do I get the input controls centered???*/
 }
