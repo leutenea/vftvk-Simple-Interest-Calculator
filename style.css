@@ -7,7 +7,7 @@ h1{color:grey;font-family:verdana}                            /*sets the font co
     background-color:white;                                   /*sets the background color */
     color:black;                                              /*sets the text color */
     width: 480px;                                             /*sets the width of the box */
-    padding: 20px;                                            /*sets the spacing within the box */
+    padding: 40px;                                            /*sets the spacing within the box */
     border-radius: 25px;                                      /*sets the corner rounds of the box */
     margin:auto;                                              /*sets the box to stay centered when resizing the window */
 }
