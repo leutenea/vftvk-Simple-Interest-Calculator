@@ -1,7 +1,8 @@
 /*  comment like this in css  */
 
-body {background-color:green;font-family:arial;color:white} /*set the styles for the page*/
+body {background-color:black;font-family:arial;color:white} /*set the styles for the page*/
 h1{color:grey;font-family:verdana}
+
 .maindiv {
     background-color:white; 
     color:black;
