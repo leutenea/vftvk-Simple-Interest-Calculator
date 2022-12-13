@@ -1,6 +1,6 @@
                                                               /*comment like this in css  */
 
-body {background-color:red;font-family:arial;color:white}   /*set the styles for the page */
+body {background-color:black;font-family:arial;color:white}   /*set the styles for the page */
 h1{color:grey;font-family:verdana}                            /*sets the font color and font type for the header */
 
 .maindiv {                                                    /*sets the styles for the box around the input elements */
